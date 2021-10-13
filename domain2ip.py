@@ -45,7 +45,7 @@ def logo():
 |____/    c_c_c_C/ \C_c_c_c    		         
 			Unlimited Mass Domain To IP
 		               MataKucing  
-	      Cubjrnet7 - Noniod7 - AlifAlexis - Demon Alivos
+	      Cubjrnet7 - Noniod7 - AlifAlexis - ReoneH4x0r
       Lumajang Team Security - Lumajang Hack Team - Cukimay Cyber Team
       			 PT. Karang Jaya Abadi
 """
